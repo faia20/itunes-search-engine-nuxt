@@ -1,6 +1,6 @@
-# iTunes Search Engine
+# iTunes Search Engine in Nuxt.js
 
-> Made with Vue.js + Nuxt.js + Nuxt
+> Made with Vue.js + Nuxt.js + Axios
 
 ## Build Setup
 
